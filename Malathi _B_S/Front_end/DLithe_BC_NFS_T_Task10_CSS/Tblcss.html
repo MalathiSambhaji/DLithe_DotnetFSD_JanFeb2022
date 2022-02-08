@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+        <head>
+            <meta charset="utf-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>CSS Table</title>
+        </head>
+        <style>
+            body{
+                padding: 0;
+                margin: 0;
+                font-family: verdana, Geneva, Tahoma, sans-serif;
+            }
+
+            table{
+                position: absolute;
+                left: 50%;
+                top: 50%;
+                transform: translate(-50%, -50%);
+                width: 800px;
+                height::200px;
+                border: 1px solid #bdc3c7;
+                
+            }
+           
+            tr {
+                transition: all.2s ease-in;
+                cursor: pointer;
+            }
+            th,td{
+                padding: 12px;
+                text-align: left;
+                border-bottom: 1px solid rgb(48, 107, 197);
+            }
+            #header {
+                background-color:#16a085;
+                color: rgb(233, 41, 137);
+            }
+            tr:nth-child(even) {background-color: pink;}
+            tr:nth-child(odd) {background-color: yellowgreen;}
+
+            h1{
+                font-weight: 600;
+                text-align: center;
+                background-color: #16a085;
+                color: rgb(28, 74, 82);
+                padding: 10px 0px;
+            }
+
+            tr:hover{
+                background-color: #b83a3a;
+                transform: scale(1.02);
+            }
+        </style>
+        <body>
+            <h1>Hoverable Table</h1>
+            <hr>
+            <table>
+                <tr id="header">
+                    <th>First Name</th>
+                    <th>Last Name</th>
+                    <th>Age</th>
+                    <th>Gender</th>
+                </tr>
+
+                <tr>
+                    <td>John</td>
+                    <td>Doe</td>
+                    <td>25</td>
+                    <td>Male</td>
+                </tr>
+                <tr>
+                    <td>Mahesh</td>
+                    <td>Deshpande</td>
+                    <td>26</td>
+                    <td>Male</td>
+
+                </tr>
+
+                <tr>
+                    <td>Ashish</td>
+                    <td>Begham</td>
+                    <td>27</td>
+                    <td>Male</td>
+                </tr>
+                <tr>
+                    <td>Anushri</td>
+                    <td>Hallad</td>
+                    <td>23</td>
+                    <td>Female</td>
+                </tr>
+                <tr>
+                    <td>Nikita</td>
+                    <td>Rangrej</td>
+                    <td>29</td>
+                    <td>Female</td>
+                </tr>
+                <tr>
+                    <td>Nikhil</td>
+                    <td>Reddy</td>
+                    <td>23</td>
+                    <td>Male</td>
+                </tr>
+                
+            </table>
+         </body>
+
+</html>
+
