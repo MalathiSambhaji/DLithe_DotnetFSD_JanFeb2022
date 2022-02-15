@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            prototype Encapsulation
+        </title>
+    </head>
+    <body>
+        <script>
+            function Employee(id,name)
+            {
+                var eId=id;
+                var ename=name;
+                Object.defineProperty(this, "name",
+                {
+                    get:function()
+                    {
+                        return ename;
+                    },
+                    set:function(ename)
+                    {
+                        this.ename=ename;
+                    }
+                });
+                Object.defineProperty(this, "id" ,{
+                    get:function()
+                    {
+                        return eId;
+                    },
+                    set:function(eId)
+                {
+                    this.eId=eId;
+                }
+                });
+            }
+            var emp=new Employee(303, "Vani");
+            document.writeln(emp.id+" "+emp.name);
+        </script>
+    </body>
+</html>

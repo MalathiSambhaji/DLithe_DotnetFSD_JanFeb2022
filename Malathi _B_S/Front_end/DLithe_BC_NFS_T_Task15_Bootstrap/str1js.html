@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        strings and Arrays
+    </title>
+    <h1>String methods</h1>
+    <body style = "background-color: aquamarine;">
+        <p id="p1"></p>
+	<p id="p2"></p>
+    <p id="p3"></p>
+  <!--String-->
+    <script>
+        var str1 = new String();
+		str1 = 'Good morning';
+        document.getElementById("p1").innerHTML = str1;
+// charAt is used to get the third charcter //
+		 var str = "Javascript";
+         document.write(str.charAt(3));
+
+        let text1 = "good";
+        let text2 = "afternoon";
+        let result  = text1.concat(text2);
+        document.getElementById("p3").innerHTML = result;
+</script>
+<p id="p4"></p>
+
+<!--index of method-->
+<p><b> string index of method</b></p>
+<script>
+        let text3 = "Hello world, welcome.";
+         text4 = text3.indexof("welcome");
+        document.getElementById("p4").innerHTML = text4;
+</script>
+
+<hr>
+<!--cocat method-->
+<p id="p5"></p>
+<script>
+
+    const arr1 = ["a","b","c"];
+    const arr2 = ["d", "e", "f"];
+    arr3 = arr1.concat(arr2);
+    document.getElementById("p5").innerHTML = arr3;
+    </script>
+<hr>
+<p><b>reverse method:</b></p>
+<p id = "p6"></p>
+<!--reverse method-->
+<script>
+const fruits = ["banana", "apple", "mango"];
+fruits.reverse();
+document.getElementById("p6").innerHTML = fruits.reverse();
+</script><br>
+<hr>
+<p><b>Splice method:</b></p>
+<!--Splice Method-->
+<script>
+    const weeks = ['mon', 'wed', 'thur', 'fri'];
+    weeks.splice(1, 0, 'tue')
+    document.write(weeks);
+    document.writeln("<br/>");
+</script><br>
+<hr>
+<!--trim is used to remove whitespaces-->
+<p><b>trim method:</b></p>
+<script>
+    var s7="     javascript   frontend   language    ";  
+        var s8=s7.trim();  
+        document.write(s8);  
+</script>
+<hr>
+<!--array reverse method-->
+<h2>Array methods</h2>
+<p>Array is an ordered list of values and it is also an object that store multiple values at once.</p>
+<p><b>array reverse method:</b></p>
+<script>
+    var c = [3,9,12,15,18,21,27];
+
+document.write(c); 
+
+c.reverse();
+document.writeln("<br/>"); 
+
+document.write(c);
+</script><br><br>
+<hr>
+<!--indexof method is used-->
+<p><b>indexof method:</b></p>
+<script>
+    var birds = [ "crow", "sparrow", "owl","parrot", "sparrow"];
+var d=birds.indexOf("sparrow") ;  
+document.write(d);
+document.writeln("<br/>"); 
+d=birds.lastIndexOf("sparrow"); 
+document.write(d);
+</script><br><br>
+<hr>
+<!--sort method-->
+<p><b>Sort method:</b></p>
+<script>
+   var arr7 = [20, 65, 08, 91, 04, 77, 33];
+document.write(arr7.sort());
+document.write(arr7);
+</script>
+<hr>
+<!--join method which return array as string-->
+<p><b>join method:</b></p>
+<script>
+     var colors = ["Black", "Orange", "white", "red"];
+var a=colors.join();  
+document.write(a);
+console.log(a);
+console.log(colors);
+</script>
+<hr>
+<p><b>Slice method:</b></p>
+<script>
+var fruits = ["Banana", "Orange", "Lemon", "Apple", "Mango"];
+                 //extract the third and fourth elements, using negative numbers.
+  var a = fruits.slice(-3, -1);
+  document.write(a);
+  document.writeln("<br/>"); 
+  var b = fruits.slice(1, 4);
+  document.write(b);
+</script>
+<hr>
+<!--filter method-->
+<p><b>filter method:</b></p>
+<script>
+    var names = ['Vani', 'veena', 'vijay', 'sanjay', 'mohan'];
+
+var result1 = names.filter(word => word.length == 4);
+
+document.write(result1);
+</script>
+<hr>
+<p>date function:</p>
+<script>
+    var date=new Date();  
+    var day=date.getDate();  
+    var month=date.getMonth()+1;  
+    var year=date.getFullYear();  
+    document.write("<br> Todays date is: "+day+"/"+month+"/"+year);  
+</script>
+<hr>
+<p id="p7"></p>
+<script>
+var d = new Date();
+d.setFullYear(2018, 0, 7);
+document.getElementById("p7").innerHTML = d;
+</script>
+<hr>
+<p id="p8"></p>
+<p>Math functions:</p>
+<script>
+n=10;
+document.getElementById("p8").innerHTML = 
+"<p><b>Math.E:</b> " + Math.E + "</p>" +
+"<p><b>Math.PI:</b> " + Math.PI + "</p>";
+</script>
+<!--roundup math function is used-->
+<script>
+    document.write(Math.round(3.7)+"<br>");
+    document.write(Math.floor(5.7)+"<br>");
+    document.write(Math.sqrt(81)+"<br>");
+    document.write(Math.abs(-1)+"<br>");
+</script>
+<hr>
+<p>Hoisting, here we use functions before declaration</p>
+<script>
+    document.write(mul(10,20)+"<br>");  
+        function mul(a,b)  
+        {  
+        return a*b;  
+        }  
+// Variable Hoisting //
+        y=11;  
+document.write(y);  
+var y;  
+</script>
+<hr>
+<!--try catch-->
+<p>Exception handling is used to handle runtime errors</p>
+<pre>
+    try statement defines a code block to run.
+    catch statement defines code block to handle error.
+    finally statement is executed even if there is an erroe in code block.
+</pre>
+<p id="p9"></p>
+<script>
+try {
+    adddalert("welcome");
+}
+catch(error) {
+    document.getElementById("p9").innerHTML = error.message;
+}
+
+</script>
+<hr>
+<p>Current Age:</p>
+<Script>
+    var d1 = new Date("10/02/1996"); 
+var d2 = new Date(); 
+var diff = d2.getTime() - d1.getTime(); 
+
+var daydiff = (diff / 31536000000).toFixed(0);   
+document.write(" Age is: " + daydiff + " years" ); 
+</script>
+</body>
+    </html>

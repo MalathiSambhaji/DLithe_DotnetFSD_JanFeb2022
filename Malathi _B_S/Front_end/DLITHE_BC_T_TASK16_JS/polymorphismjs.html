@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Polymorphism 
+        </title>
+        <body>
+        <script>
+            var Education = function () {}
+            Education.prototype.select = function()
+            {
+                return "i learnt javascript"
+            }
+            var science = function() {}
+            science.prototype = Object.create(Education.prototype);
+            science.prototype.select = function()
+            {
+            return "I like Sciece"
+        }
+         var educations = [new game(), new science()];
+         Educations.forEach(function(educaion){
+            document.write(education.select());
+            document.write("</br>");
+        });
+        </script>
+        </body>
+        </html>

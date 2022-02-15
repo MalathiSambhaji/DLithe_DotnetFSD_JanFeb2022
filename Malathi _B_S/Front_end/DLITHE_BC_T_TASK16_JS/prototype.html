@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            js
+        </title>
+        </head>
+        
+        <body>
+            <p id="demo"></p>
+            <script>    
+                function Employee(first, last, designation, mobile)
+               {
+                    this.firstname = first;
+                    this.lastname = last;
+                    this.designation = designation;
+                    this.mobile = mobile;
+                } 
+                
+                var emplObj1 = new Employee();
+                emplObj1.location = "Hyderabad";
+                document.write(emplObj1.location+"<br>");
+           
+              //  <!--add new property-->//
+                     Employee.prototype.location = "pune";
+                     Employee.proto
+
+                    Employee.prototype.name = function()
+                     {
+                      return this.firstname + " " + this.lastname + " " +this.designation + " " + " "+ this.mobile + " "
+                    };
+                    
+                    const n = new Employee("Aradhana", "Joshi", "Developer", 8976754637);
+                    document.getElementById("demo").innerHTML ="Employee details:" + n.location + " " + n.name();
+                    document.write(n.name());
+                    </script>	
+                </body>
+                
+                </html>

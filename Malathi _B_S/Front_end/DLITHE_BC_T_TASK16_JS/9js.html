@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+        <body>
+            <script>
+                function Person(first, last, age, eye) 
+                {
+                  this.firstName = first;
+                  this.lastName = last;
+                  this.age = age;
+                  this.eyeColor = eye;
+                }
+                
+                Person.prototype.name = function()
+                 {
+                  return this.firstName + " " + this.lastName;
+                };
+                
+                const n = new Person("Paul", "Walker", 36, "blue");
+                document.getElementById("demo").innerHTML ="My name is " + n.name();
+                document.write(n.name());
+                </script>
+        </body>
+        </html>

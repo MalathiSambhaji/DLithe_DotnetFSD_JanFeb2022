@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Encapsulation
+        </title>
+    </head>
+    <body>
+        <script>
+            class Employee
+            {
+                constructor()
+                {
+                    var name;
+                    var rating;
+                }
+                getName()
+                {
+                    return this.name;
+                }
+                setName(name)
+                {
+                    this.name=name;
+                }
+
+                getRating()
+                {
+                    return this.rating;
+                }
+                setRating(rating)
+                {
+                    this.rating=rating;
+                }
+
+            }
+            var emp=new Employee();
+            emp.setName("Vijay");
+            emp.setRating(9);
+            document.writeln(emp.getName()+" "+emp.getRating());
+        </script>
+    </body>
+</html>

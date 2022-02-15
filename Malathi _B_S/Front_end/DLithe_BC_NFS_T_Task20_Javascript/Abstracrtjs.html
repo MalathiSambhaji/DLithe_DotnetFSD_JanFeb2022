@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Abstract 
+        </title>
+    </head>
+    <body>
+        <script>
+            function Vehicle()
+            {
+                this.vehicleName="vehicleName";
+                throw new error("instance of object cannt be created")
+            }
+            Vehicle.prototype.display=function()
+            {
+                return "Vehicle is:" +this.vehicleName;
+            }
+            // creating  constructor function //
+            function Bike(vehicleName)
+            {
+                this.vehicleName=vehicleName;
+            }
+            // creating object without cnstructor function //
+Bike.prototype=Object.create(Vehicle.prototype);
+var bike=new Bike("Honda");
+document.writeln(bike.display());
+</script>
+    </body>
+</html>

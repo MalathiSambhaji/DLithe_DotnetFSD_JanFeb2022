@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:skyblue">
+    <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" border="0" src="images.jpg" alt="images" width="32" height="32">
+
+<h2>JavaScript</h2>
+<p>Javascript is group of statements to be executed to perform some task. </p>
+<p>Javascript includes values, operators, expressions, keywords and comments.</p>
+<pre>Fixed values
+Variable values
+</pre>
+<p id="demo"></p>
+<script>
+    var a = 7;
+    var b = 3;
+    var c = a+b;
+    document.getElementById("demo").innerHTML = "value of c is:" +c;
+
+    const PI = 3.14;
+    document.write(PI);
+
+    var fruitName = "apple";
+    let  x = 10;  
+    {  
+  
+  let y = 2;
+  let z=5;  
+  document.write(+5+"<br>");
+  
+}
+function BigImg(g) {
+    g.style.height = "63px";
+    g.style.width = "63";
+}
+function normalImg(g) {
+    g.style.height = "32px";
+    g.style.width = "32";
+}
+</script>
+</script>
+
+</body>
+</html>
