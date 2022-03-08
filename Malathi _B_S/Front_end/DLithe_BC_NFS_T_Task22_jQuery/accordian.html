@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>jQuery UI Accordion - Default functionality</title>
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.13.1/themes/base/jquery-ui.css">
+  <link rel="stylesheet" href="/resources/demos/style.css">
+  <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+  <script src="https://code.jquery.com/ui/1.13.1/jquery-ui.js"></script>
+  <script>
+  $( function() {
+    $( "#accordion" ).accordion();
+  } );
+  </script>
+  <!--styling accordian-->
+   <style>
+    #accordion{
+      font-size: 14px;
+      background-color: rgb(199, 245, 245);
+      color:rgb(88, 24, 207);
+      text-align: center;
+      font-family: fantasy;
+      border-radius: 20px;
+    }
+ </style>
+ <script>  
+    $(function() {  
+       $( "#button-6" ).button({  
+          icons: {  
+             primary: "ui-icon-locked"  
+          },  
+          text: false  
+       });  
+       $( "#button-7" ).button({  
+          disabled:true  
+       });  
+       $( "#button-8" ).button({  
+          icons: {  
+             primary: "ui-icon-gear",  
+             secondary: "ui-icon-triangle-1-s"  
+          }  
+       });  
+    });  
+ </script>
+ <script>
+    $(function() {
+       $( "#button-1, #button-2, #button-3, #button-4" ).button();
+       $( "#button-5" ).buttonset();
+    });
+ </script>
+ <!--autocomplete-->
+ <script>
+    $(function() {
+       var availableTutorials  =  [
+           "Jquery",
+          "JavaScript",
+          "Bootstrap",
+          "C",
+          "C++",
+       ];
+       $( "#automplete-1" ).autocomplete({
+          source: availableTutorials
+       });
+    });
+ </script>
+ 
+ <!--animation-->
+ <style>
+    .redDiv {
+        background-color: red;
+        height: 100px;
+        width: 100px;
+    }
+</style>
+<script>
+    $(document).ready(function () {
+        
+        $('#myDiv').animate({
+                    height: '200px',
+                    width: '200px'
+                }, 
+                {    // options parameter //
+                    duration: 5000,
+                    complete: function () {
+                        $(this).animate({
+                            height: '100px',
+                            width: '100px'
+                        }, 5000,
+                        function () {
+                            $('#msgDiv').text('Animation completed..');
+                        });
+                    },
+                    start: function () {
+                        $('#msgDiv').append('starting animation..');
+                    }
+                });
+
+    });
+</script>
+
+</head>
+<body style="background-color:rgb(233, 157, 185)">
+<!--accordian is used--> 
+</pre>
+  Accordian
+<div id="accordion">
+  <h3>Level 1</h3>
+  <div>
+    <p>
+    Accordian is a jquery based expandable and collapsiblecontent holder that is broken into sections.
+    </p>
+  </div>
+  <h3>Level 2</h3>
+  <div>
+    <p>
+    Accordian helps to shorten pages and scrolling.
+    </p>
+  </div>
+  <h3>Level 3</h3>
+  <div>
+    <p>
+    Accordian widget is used to display text in a collapsed and condensed manner.
+    </p>
+  </div>
+  <h3>Level 4</h3>
+  <div>
+    <p>
+    When a page is loaded accordian widget is expanded while all other items remain collapsed.
+    </p>
+  </div>
+</div>
+<hr>
+<p>Button(): method is used to transform HTML elements into theamable buttons.</p>  
+ <center><button id="button-6">  
+    Button Enable
+ </button></center> <br>
+<center> <button id="button-7">  
+    Button Disabled  
+ </button></center>
+ <!--Buttonset-->
+ <p>Buttenset() method is used to combine separate widets into single file</p>
+ <button id = "button-1">A button element</button>
+ <input id = "button-2" type = "submit" value = "submit">
+ <label for = "button-4">Toggle</label>
+ <br><br>
+ <div id = "button-5">
+    <input type = "checkbox" id = "check1">
+    <label for = "check1">High</label>
+    <input type = "checkbox" id = "check2">
+    <label for = "check2">Medium</label>
+    <input type = "checkbox" id = "check3">
+    <label for = "check3">Low</label>
+ </div>
+ <hr>
+ <!--html-->
+ <div3 class = "ui-widget">
+    <!--type "a" or "s"-->
+    <p>Autocomlete: provide the users a list of options while typing a beginning letter in text box</p>
+    <label for = "automplete-1">Options: </label><br\><br\>
+    <input id = "automplete-1"><br\>
+ </div3>
+ <hr>
+<!--animation-->
+<div4 id="msgDiv"></div4>
+
+	<div5 id="myDiv" class="redDiv">
+</div5>
+
+</body>
+</html>

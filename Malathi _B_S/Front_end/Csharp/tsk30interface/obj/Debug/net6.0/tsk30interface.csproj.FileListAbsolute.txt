@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk30interface\bin\Debug\net6.0\tsk30interface.exe
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk30interface\bin\Debug\net6.0\tsk30interface.deps.json
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk30interface\bin\Debug\net6.0\tsk30interface.runtimeconfig.json
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk30interface\bin\Debug\net6.0\tsk30interface.dll
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk30interface\bin\Debug\net6.0\ref\tsk30interface.dll
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk30interface\bin\Debug\net6.0\tsk30interface.pdb
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk30interface\obj\Debug\net6.0\tsk30interface.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk30interface\obj\Debug\net6.0\tsk30interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk30interface\obj\Debug\net6.0\tsk30interface.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk30interface\obj\Debug\net6.0\tsk30interface.AssemblyInfo.cs
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk30interface\obj\Debug\net6.0\tsk30interface.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk30interface\obj\Debug\net6.0\tsk30interface.dll
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk30interface\obj\Debug\net6.0\ref\tsk30interface.dll
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk30interface\obj\Debug\net6.0\tsk30interface.pdb
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk30interface\obj\Debug\net6.0\tsk30interface.genruntimeconfig.cache

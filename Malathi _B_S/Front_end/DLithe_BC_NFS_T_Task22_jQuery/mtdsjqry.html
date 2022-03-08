@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.13.1/themes/base/jquery-ui.css">
+  <link rel="stylesheet" href="/resources/demos/style.css">
+  <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+  <script src="https://code.jquery.com/ui/1.13.1/jquery-ui.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+  $("button").click(function(){
+    alert("Value: " + $("#test").val());
+  });
+});
+</script>
+</head>
+<!--text() method-->
+<body style="background-color:blanchedalmond;">
+
+<p>Wish: <input type="text" id="test" value="Good morning"></p>
+
+<button>Show Value</button>
+<script>
+$(document).ready(function(){
+  $("button").click(function(){
+    alert($("#google").attr("href"));
+  });
+});
+</script>
+</head>
+<body>
+
+<p><a href="https://www.google.com" id="w3s">google.com</a></p>
+
+<button>Show href Value</button><br/>
+</script>
+<script>
+    $(document).ready(function(){
+      $("#btn1").click(function(){
+        $("p1").append(" <b>Append method is used to insert a content at the end of elements.</b>.");
+      });
+    
+      $("#btn2").click(function(){
+        $("ol").append("<li>Appended item</li>");
+      });
+    });
+    </script>
+    </head>
+    <body>
+    <!--add append method-->
+    <p1><b>Append():</b></p1>
+    
+    
+    <ol>
+      <li>Prepend</li>
+      <li>After</li>
+      <li>Before</li>
+    </ol>
+    
+    <button id="btn1">Append text</button>
+    <button id="btn2">Append list items</button><br/><br/>
+
+    <script>
+        $(document).ready(function(){
+          $("#btn3").click(function(){
+            $("p2").prepend("<b>Prepend():</b>. ");
+          });
+        });
+        </script>
+        </head>
+        <body><br/>
+        <p2>This method is used to insert a content at the begining of html elements</p2><br/>
+        
+        <button id="btn3">Prepend text</button><br/><br/>
+        
+        <script>
+            $(document).ready(function(){
+              $("#btn4").click(function(){
+                $("img").before("<b>Before</b>");
+              });
+            
+              $("#btn5").click(function(){
+                $("img").after("<i>After</i>");
+              });
+            });
+            </script>
+            </head>
+            <body>
+            
+            <img src="images.jpg" alt="images" width="100" height="140"><br><br>
+            
+            <button id="btn4">Insert before</button>
+            <button id="btn5">Insert after</button><br/><br/>
+            <p3><b>After():</b></p3><p4>method is used to insert a content after the selected eleemnts.</p4><br/>
+            <p5><b>Before():</b></p5><p6> method is used to insert a content before the selected eleemnts.</p6><br/><br/>
+
+
+            <script>
+                $(document).ready(function(){
+                  $("button").click(function(){
+                    $("#div1").remove();
+                  });
+                });
+                </script>
+                </head>
+                <body>
+             <!--remove method-->   
+                <div id="div1" style="height:100px;width:300px;border:1px solid black;background-color:rgb(51, 138, 95);">
+                <p7>Remove() method is used to remove the selected elements</p7>
+                
+                </div>
+                <br>
+                
+                <button>Remove</button><br/><br/>
+                <script>
+                    $(document).ready(function(){
+                      $("button").click(function(){
+                        $("#div2").empty();
+                      });
+                    });
+                    </script>
+                    </head>
+                    <body>
+                    
+                    <div id="div2" style="height:100px;width:300px;border:1px solid black;background-color:yellow;">
+                    <p8>Empty() method removes all the child elements from a selected elemnts.</p8>
+                    </div>
+                    <br>
+                    <button>Empty</button>
+
+                  
+
+
+            
+</body>
+</html>

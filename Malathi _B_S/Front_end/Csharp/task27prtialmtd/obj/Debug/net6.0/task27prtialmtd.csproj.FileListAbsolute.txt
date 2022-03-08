@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task27prtialmtd\bin\Debug\net6.0\task27prtialmtd.exe
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task27prtialmtd\bin\Debug\net6.0\task27prtialmtd.deps.json
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task27prtialmtd\bin\Debug\net6.0\task27prtialmtd.runtimeconfig.json
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task27prtialmtd\bin\Debug\net6.0\task27prtialmtd.dll
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task27prtialmtd\bin\Debug\net6.0\ref\task27prtialmtd.dll
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task27prtialmtd\bin\Debug\net6.0\task27prtialmtd.pdb
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task27prtialmtd\obj\Debug\net6.0\task27prtialmtd.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task27prtialmtd\obj\Debug\net6.0\task27prtialmtd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task27prtialmtd\obj\Debug\net6.0\task27prtialmtd.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task27prtialmtd\obj\Debug\net6.0\task27prtialmtd.AssemblyInfo.cs
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task27prtialmtd\obj\Debug\net6.0\task27prtialmtd.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task27prtialmtd\obj\Debug\net6.0\task27prtialmtd.dll
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task27prtialmtd\obj\Debug\net6.0\ref\task27prtialmtd.dll
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task27prtialmtd\obj\Debug\net6.0\task27prtialmtd.pdb
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task27prtialmtd\obj\Debug\net6.0\task27prtialmtd.genruntimeconfig.cache

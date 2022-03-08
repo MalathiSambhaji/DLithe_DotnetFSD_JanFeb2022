@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task30psbyvlu\obj\Debug\net6.0\task30psbyvlu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task30psbyvlu\obj\Debug\net6.0\task30psbyvlu.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task30psbyvlu\obj\Debug\net6.0\task30psbyvlu.AssemblyInfo.cs
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task30psbyvlu\obj\Debug\net6.0\task30psbyvlu.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task30psbyvlu\bin\Debug\net6.0\task30psbyvlu.exe
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task30psbyvlu\bin\Debug\net6.0\task30psbyvlu.deps.json
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task30psbyvlu\bin\Debug\net6.0\task30psbyvlu.runtimeconfig.json
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task30psbyvlu\bin\Debug\net6.0\task30psbyvlu.dll
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task30psbyvlu\bin\Debug\net6.0\ref\task30psbyvlu.dll
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task30psbyvlu\bin\Debug\net6.0\task30psbyvlu.pdb
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task30psbyvlu\obj\Debug\net6.0\task30psbyvlu.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task30psbyvlu\obj\Debug\net6.0\task30psbyvlu.dll
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task30psbyvlu\obj\Debug\net6.0\ref\task30psbyvlu.dll
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task30psbyvlu\obj\Debug\net6.0\task30psbyvlu.pdb
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task30psbyvlu\obj\Debug\net6.0\task30psbyvlu.genruntimeconfig.cache

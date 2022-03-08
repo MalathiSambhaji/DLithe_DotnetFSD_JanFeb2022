@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task261d\obj\Debug\net6.0\task261d.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task261d\obj\Debug\net6.0\task261d.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task261d\obj\Debug\net6.0\task261d.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task261d\obj\Debug\net6.0\task261d.AssemblyInfo.cs
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task261d\obj\Debug\net6.0\task261d.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task261d\bin\Debug\net6.0\task261d.exe
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task261d\bin\Debug\net6.0\task261d.deps.json
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task261d\bin\Debug\net6.0\task261d.runtimeconfig.json
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task261d\bin\Debug\net6.0\task261d.dll
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task261d\bin\Debug\net6.0\ref\task261d.dll
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task261d\bin\Debug\net6.0\task261d.pdb
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task261d\obj\Debug\net6.0\task261d.dll
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task261d\obj\Debug\net6.0\ref\task261d.dll
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task261d\obj\Debug\net6.0\task261d.pdb
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task261d\obj\Debug\net6.0\task261d.genruntimeconfig.cache

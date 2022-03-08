@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task27strings\obj\Debug\net6.0\task27strings.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task27strings\obj\Debug\net6.0\task27strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task27strings\obj\Debug\net6.0\task27strings.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task27strings\obj\Debug\net6.0\task27strings.AssemblyInfo.cs
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task27strings\obj\Debug\net6.0\task27strings.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task27strings\bin\Debug\net6.0\task27strings.exe
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task27strings\bin\Debug\net6.0\task27strings.deps.json
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task27strings\bin\Debug\net6.0\task27strings.runtimeconfig.json
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task27strings\bin\Debug\net6.0\task27strings.dll
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task27strings\bin\Debug\net6.0\ref\task27strings.dll
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task27strings\bin\Debug\net6.0\task27strings.pdb
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task27strings\obj\Debug\net6.0\task27strings.dll
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task27strings\obj\Debug\net6.0\ref\task27strings.dll
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task27strings\obj\Debug\net6.0\task27strings.pdb
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\task27strings\obj\Debug\net6.0\task27strings.genruntimeconfig.cache

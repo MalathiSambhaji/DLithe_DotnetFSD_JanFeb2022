@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk26paramarry\bin\Debug\net6.0\tsk26paramarry.exe
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk26paramarry\bin\Debug\net6.0\tsk26paramarry.deps.json
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk26paramarry\bin\Debug\net6.0\tsk26paramarry.runtimeconfig.json
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk26paramarry\bin\Debug\net6.0\tsk26paramarry.dll
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk26paramarry\bin\Debug\net6.0\ref\tsk26paramarry.dll
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk26paramarry\bin\Debug\net6.0\tsk26paramarry.pdb
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk26paramarry\obj\Debug\net6.0\tsk26paramarry.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk26paramarry\obj\Debug\net6.0\tsk26paramarry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk26paramarry\obj\Debug\net6.0\tsk26paramarry.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk26paramarry\obj\Debug\net6.0\tsk26paramarry.AssemblyInfo.cs
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk26paramarry\obj\Debug\net6.0\tsk26paramarry.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk26paramarry\obj\Debug\net6.0\tsk26paramarry.dll
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk26paramarry\obj\Debug\net6.0\ref\tsk26paramarry.dll
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk26paramarry\obj\Debug\net6.0\tsk26paramarry.pdb
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk26paramarry\obj\Debug\net6.0\tsk26paramarry.genruntimeconfig.cache

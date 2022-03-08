@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk26jggdary\bin\Debug\net6.0\tsk26jggdary.exe
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk26jggdary\bin\Debug\net6.0\tsk26jggdary.deps.json
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk26jggdary\bin\Debug\net6.0\tsk26jggdary.runtimeconfig.json
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk26jggdary\bin\Debug\net6.0\tsk26jggdary.dll
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk26jggdary\bin\Debug\net6.0\ref\tsk26jggdary.dll
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk26jggdary\bin\Debug\net6.0\tsk26jggdary.pdb
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk26jggdary\obj\Debug\net6.0\tsk26jggdary.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk26jggdary\obj\Debug\net6.0\tsk26jggdary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk26jggdary\obj\Debug\net6.0\tsk26jggdary.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk26jggdary\obj\Debug\net6.0\tsk26jggdary.AssemblyInfo.cs
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk26jggdary\obj\Debug\net6.0\tsk26jggdary.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk26jggdary\obj\Debug\net6.0\tsk26jggdary.dll
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk26jggdary\obj\Debug\net6.0\ref\tsk26jggdary.dll
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk26jggdary\obj\Debug\net6.0\tsk26jggdary.pdb
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk26jggdary\obj\Debug\net6.0\tsk26jggdary.genruntimeconfig.cache

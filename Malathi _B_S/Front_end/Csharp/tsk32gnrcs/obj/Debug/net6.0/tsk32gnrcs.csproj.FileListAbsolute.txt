@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk32gnrcs\bin\Debug\net6.0\tsk32gnrcs.exe
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk32gnrcs\bin\Debug\net6.0\tsk32gnrcs.deps.json
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk32gnrcs\bin\Debug\net6.0\tsk32gnrcs.runtimeconfig.json
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk32gnrcs\bin\Debug\net6.0\tsk32gnrcs.dll
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk32gnrcs\bin\Debug\net6.0\ref\tsk32gnrcs.dll
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk32gnrcs\bin\Debug\net6.0\tsk32gnrcs.pdb
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk32gnrcs\obj\Debug\net6.0\tsk32gnrcs.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk32gnrcs\obj\Debug\net6.0\tsk32gnrcs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk32gnrcs\obj\Debug\net6.0\tsk32gnrcs.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk32gnrcs\obj\Debug\net6.0\tsk32gnrcs.AssemblyInfo.cs
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk32gnrcs\obj\Debug\net6.0\tsk32gnrcs.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk32gnrcs\obj\Debug\net6.0\tsk32gnrcs.dll
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk32gnrcs\obj\Debug\net6.0\ref\tsk32gnrcs.dll
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk32gnrcs\obj\Debug\net6.0\tsk32gnrcs.pdb
+C:\Users\HP\Documents\DLithe_DotnetFSD_JanFeb2022\Malathi _B_S\Front_end\Csharp\tsk32gnrcs\obj\Debug\net6.0\tsk32gnrcs.genruntimeconfig.cache
